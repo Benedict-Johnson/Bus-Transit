@@ -1,0 +1,17 @@
+<resources>
+    <string name="seat_number">Seat %d</string>
+    <string name="app_name">Bus Transit</string>
+    <string name="select_location">Select Your Location</string>
+    <string name="view_buses">View Buses on Map</string>
+    <string name="bus_seat_availability">Bus Seat Availability</string>
+    <string name="seat_color_info">Red: Occupied | Pink: Female Seat | Green: Available</string>
+    <string name="login">Login</string>
+    <string name="student_id">Student ID</string>
+    <string name="password">Password</string>
+    <string name="enter_feedback">Enter your feedback</string>
+    <string name="submit">Submit</string>
+    <string name="welcome">Welcome to Bus Transit</string>
+    <string name="view_routes">View Routes</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="logout">Logout</string>
+</resources>
