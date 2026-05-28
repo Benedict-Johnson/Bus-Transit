@@ -136,7 +136,20 @@ FOREIGN KEY(student_id) REFERENCES students(id)
 | 🔴 Red | Occupied |
 | 🟣 Purple | Female Reserved |
 
+<img width="720" height="1600" alt="WhatsApp Image 2025-04-08 at 19 32 49_deacca1a" src="https://github.com/user-attachments/assets/d2fa23b9-b460-4113-8fa9-cfc7d04e62b0" />
+
 ---
+
+## Screenshots
+
+<img width="720" height="1600" alt="WhatsApp Image 2025-04-08 at 19 32 49_556f02e8" src="https://github.com/user-attachments/assets/e01678d2-9d6d-4ed3-9c09-437f4f399323" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2025-04-08 at 19 32 48_c576b3e5" src="https://github.com/user-attachments/assets/53eb5334-1324-41d7-9029-5e4710d58c87" />
+
+<img width="720" height="1600" alt="WhatsApp Image 2025-04-08 at 19 32 49_c038494d" src="https://github.com/user-attachments/assets/3bad8750-68f9-4b36-8fc8-b3c688d68aed" />
+
+---
+
 
 ## 📋 Permissions
 
